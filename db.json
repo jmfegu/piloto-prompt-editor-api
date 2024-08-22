@@ -13,7 +13,7 @@
           "name": "Transcripción",
           "data": "",
           "step": 2,
-          "promptId": "354ff3a6-e891-4c09-b1ca-4d745d20a123",
+          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a123",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
@@ -21,7 +21,7 @@
           "name": "Análisis semántico",
           "data": "",
           "step": 3,
-          "promptId": "354ff3a6-e891-4c09-b1ca-4d745d20a456",
+          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a456",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
@@ -29,7 +29,7 @@
           "name": "Análisis de sentimientos",
           "data": "",
           "step": 4,
-          "promptId": "354ff3a6-e891-4c09-b1ca-4d745d20a789",
+          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a789",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
@@ -37,7 +37,7 @@
           "name": "Extracción de entidades",
           "data": "",
           "step": 5,
-          "promptId": "354ff3a6-e891-4c09-b1ca-4d745d20a159",
+          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a159",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
@@ -45,7 +45,7 @@
           "name": "Generación de informes",
           "data": "",
           "step": 6,
-          "promptId": "354ff3a6-e891-4c09-b1ca-4d745d20a753",
+          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a753",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         }
       ],
@@ -55,52 +55,40 @@
       "name": "Proceso de análisis",
       "processId": "63dbc57c-a75e-4624-a754-483871e9b6de",
       "prompts": [
-        {
-          "createdAt": "2024-08-22T02:50:56.372Z",
-          "name": "Segmentación de hablantes",
-          "data": "",
+        {          
+          "name": "Segmentación de hablantes",          
           "step": 1,
-          "promptId": "354ff3a6-e891-4c09-b1ca-4d745d20a859",
+          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a859",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
-          "createdAt": "2024-08-21T16:03:59.536Z",
           "name": "Transcripción",
-          "data": "",
           "step": 2,
-          "promptId": "354ff3a6-e891-4c09-b1ca-4d745d20a123",
+          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a123",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
-          "createdAt": "2024-08-22T02:00:31.111Z",
           "name": "Análisis semántico",
-          "data": "",
           "step": 3,
-          "promptId": "354ff3a6-e891-4c09-b1ca-4d745d20a456",
+          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a456",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
-          "createdAt": "2024-08-21T14:16:19.211Z",
           "name": "Análisis de sentimientos",
-          "data": "",
           "step": 4,
-          "promptId": "354ff3a6-e891-4c09-b1ca-4d745d20a789",
+          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a789",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
-          "createdAt": "2024-08-21T15:32:59.069Z",
           "name": "Extracción de entidades",
-          "data": "",
           "step": 5,
-          "promptId": "354ff3a6-e891-4c09-b1ca-4d745d20a159",
+          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a159",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
-          "createdAt": "2024-08-21T16:52:18.980Z",
           "name": "Generación de informes",
-          "data": "",
           "step": 6,
-          "promptId": "354ff3a6-e891-4c09-b1ca-4d745d20a753",
+          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a753",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         }
       ]
