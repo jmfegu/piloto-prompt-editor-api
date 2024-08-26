@@ -5,7 +5,7 @@
           "name": "Segmentación de hablantes",          
           "data": "El valor de la data",
           "step": 1,
-          "id": "1506b8ea-f121-4b97-8706-bdb05829b3ac",
+          "uuid": "1506b8ea-f121-4b97-8706-bdb05829b3ac",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
@@ -13,7 +13,7 @@
           "name": "Transcripción",
           "data": "",
           "step": 2,
-          "id": "ca57281d-7a9f-40a6-89b0-b4837e91adf4",
+          "uuid": "ca57281d-7a9f-40a6-89b0-b4837e91adf4",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
@@ -21,7 +21,7 @@
           "name": "Análisis semántico",
           "data": "",
           "step": 3,
-          "id": "82a094a5-de25-4af0-88e8-5d6b19642e6b",
+          "uuid": "82a094a5-de25-4af0-88e8-5d6b19642e6b",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
@@ -29,7 +29,7 @@
           "name": "Análisis de sentimientos",
           "data": "",
           "step": 4,
-          "id": "f0b2fd01-aa78-4055-b96b-19f089ee70e9",
+          "uuid": "f0b2fd01-aa78-4055-b96b-19f089ee70e9",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
@@ -37,7 +37,7 @@
           "name": "Extracción de entidades",
           "data": "",
           "step": 5,
-          "id": "af71253b-fdbc-4981-a7bd-503a942fd5ed",
+          "uuid": "af71253b-fdbc-4981-a7bd-503a942fd5ed",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
@@ -45,7 +45,7 @@
           "name": "Generación de informes",
           "data": "",
           "step": 6,
-          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a753",
+          "uuid": "354ff3a6-e891-4c09-b1ca-4d745d20a753",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         }
       ],
@@ -53,42 +53,42 @@
     {
       "createdAt": "2024-08-22T05:36:44.550Z",
       "name": "Proceso de análisis",
-      "processId": "63dbc57c-a75e-4624-a754-483871e9b6de",
+      "uuid": "63dbc57c-a75e-4624-a754-483871e9b6de",
       "prompts": [
         {          
           "name": "Segmentación de hablantes",          
           "step": 1,
-          "id": "1506b8ea-f121-4b97-8706-bdb05829b3ac",
+          "uuid": "1506b8ea-f121-4b97-8706-bdb05829b3ac",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
           "name": "Transcripción",
           "step": 2,
-          "id": "ca57281d-7a9f-40a6-89b0-b4837e91adf4",
+          "uuid": "ca57281d-7a9f-40a6-89b0-b4837e91adf4",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
           "name": "Análisis semántico",
           "step": 3,
-          "id": "82a094a5-de25-4af0-88e8-5d6b19642e6b",
+          "uuid": "82a094a5-de25-4af0-88e8-5d6b19642e6b",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
           "name": "Análisis de sentimientos",
           "step": 4,
-          "id": "f0b2fd01-aa78-4055-b96b-19f089ee70e9",
+          "uuid": "f0b2fd01-aa78-4055-b96b-19f089ee70e9",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
           "name": "Extracción de entidades",
           "step": 5,
-          "id": "af71253b-fdbc-4981-a7bd-503a942fd5ed",
+          "uuid": "af71253b-fdbc-4981-a7bd-503a942fd5ed",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         },
         {
           "name": "Generación de informes",
           "step": 6,
-          "id": "354ff3a6-e891-4c09-b1ca-4d745d20a753",
+          "uuid": "354ff3a6-e891-4c09-b1ca-4d745d20a753",
           "processId": "63dbc57c-a75e-4624-a754-483871e9b6de"
         }
       ]
